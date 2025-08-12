@@ -1,0 +1,67 @@
+[
+    {
+        "title": "audi q8",
+        "year": "2024",
+        "price": 13700000,
+        "mileage": 25,
+        "url": "https://auto.ru/cars/used/sale/audi/q8/1128569251-29e61428/",
+        "horse_power": 286,
+        "body": "внедорожник",
+        "drive": "полный",
+        "fuel": "дизель",
+        "image_link": "https://yastatic.net/naydex/autoru/OJW260k89/c37ac4t_Lr/fASTev_AkkTPeFvxuSF5cWXeenVclnCCDNsf-VgpWfzwa5zHqejQnSLo5nWcX_udkiNlg4kE4BVOOZa-Jfm87mgB1yO9hNkQnG8T7O1gKSEriCckGuZIpjm0IcN-D2zAk3yGwOn3l95Kh_Um_D6D_O1gMZz8AoB0NXnx0Qf_qt5aLaVs2-L_TeZxE-u7BUxmdbZQSWvUZbMilBH0XiJmw69sg93BtKT6WaCNP_0fqNruUxSN1BO8eyZ_2v8-047BcDY",
+        "city": "Москва"
+    },
+    {
+        "title": "audi q8",
+        "year": "2024",
+        "price": 13000000,
+        "mileage": 64,
+        "url": "https://auto.ru/cars/used/sale/audi/q8/1127831155-6344b361/",
+        "horse_power": 286,
+        "body": "внедорожник",
+        "drive": "полный",
+        "fuel": "дизель",
+        "image_link": "https://yastatic.net/naydex/autoru/OJW260k89/c37ac4t_Lr/fASTev_AkkTPeFvxuSF5cWXeenVclnCCDNsf-VgpWfzwa5zHqevUnSTv7HycXqvJwncx1IpW5BtKOcaxdqC_uTxc1CK-i9ofmW4TvL5gKSEriCckGuZIpjm0IcN-D2zAk3yGwOn3l95Kh_Um_D6D_O1gMZz8AoB0NXnx0Qf_qt5aLaVs2-L_TeZxE-u7BUxmdbZQSWvUZbMilBH0XiJmw69sg93BtKT6WaCNP_0fqNruUxSN1BO8eyZ_2v8-047BcDY",
+        "city": "Москва"
+    },
+    {
+        "title": "audi q8",
+        "year": "2025",
+        "price": 13800000,
+        "mileage": 15,
+        "url": "https://auto.ru/cars/used/sale/audi/q8/1128025640-0c408d5f/",
+        "horse_power": 286,
+        "body": "внедорожник",
+        "drive": "полный",
+        "fuel": "дизель",
+        "image_link": "https://avatars.mds.yandex.net/get-autoru-vos/4077809/a6eb54e3aeda4acb05666d3125f06774/456x342",
+        "city": "Москва"
+    },
+    {
+        "title": "audi q8",
+        "year": "2025",
+        "price": 13481660,
+        "mileage": 16,
+        "url": "https://auto.ru/cars/used/sale/audi/q8/1128483478-45f6a36f/",
+        "horse_power": 286,
+        "body": "внедорожник",
+        "drive": "полный",
+        "fuel": "дизель",
+        "image_link": "https://avatars.mds.yandex.net/get-autoru-vos/2073487/67ab9d344ebea5217ef38ccd78569362/456x342",
+        "city": "Москва"
+    },
+    {
+        "title": "audi q8",
+        "year": "2021",
+        "price": 15500000,
+        "mileage": 21,
+        "url": "https://auto.ru/cars/used/sale/audi/q8/1121762002-6769d8fc/",
+        "horse_power": 340,
+        "body": "внедорожник",
+        "drive": "полный",
+        "fuel": "бензин",
+        "image_link": "https://photo.auto.ru/photo/get-autoru-vos/8381424/xa1Fw2IWYf1gmeEXA_uzNO6b9l8jO1_WrAENkTl0XggTklwaKyhPhaHHFrAkNer5rB83TCOnDhOCSfAgjg_cZn9vgwR6m7KpQEIAiRs_M52t6qczAb-73Hqn-8iWFBY68kmALQ1wzTu74Fa3gfmXC5CI0RBHK0-ebVv65cbG3pZ3lyk/456x342",
+        "city": "Москва"
+    }
+]
